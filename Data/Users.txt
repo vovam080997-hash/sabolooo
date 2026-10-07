@@ -1,0 +1,3 @@
+// ID | Username | PasswordHash | Email | Role
+9001|admin|100000.4tXKqQl4P3tVInYZ3Z/f4Q==.O3FFJ9LqyKuzidfxwncnGxKUfMXbd9EPl4nYS8FT+Pk=|vovam080997@gmail.com|admin
+9002|vova123|100000.tRsK6SghGWcagaLKbm41pA==.CDCxkz/YY4xjUyzfKyFu4oFaeI27WImXS9nZjKLYtQc=|vovam0809977@gmail.com|customer

@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+Data/log.txt
+Data/*_export.csv
+
+appsettings.json

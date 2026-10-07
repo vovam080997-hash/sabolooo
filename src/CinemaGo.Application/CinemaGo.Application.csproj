@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CinemaGo.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    
+    <ProjectReference Include="..\CinemaGo.Domain\CinemaGo.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
